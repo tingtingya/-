@@ -1,0 +1,4 @@
+/usr/local/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "Unix Makefiles" -S /home/ai/data/cv/cpp_project/demo_ByteTrack -B /home/ai/data/cv/cpp_project/demo_ByteTrack/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/ai/data/cv/cpp_project/demo_ByteTrack/cmake-build-debug
